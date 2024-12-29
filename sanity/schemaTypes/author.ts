@@ -30,7 +30,7 @@ export const author = defineType({
         defineField(
             {
             name: 'image',
-            type: 'image',
+            type: 'string',
         }),
         defineField(
             {
